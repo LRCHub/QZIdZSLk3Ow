@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "DOKIDOKIリズム",
+  "base_artist": "城ヶ崎莉嘉 (CV: 山本希望)",
+  "createdAt": "2026-03-01T13:02:35.341857Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "DOKIDOKIリズム [ORT]",
+      "artist": "城ヶ崎莉嘉(CV:山本希望)",
+      "has_synced": true,
+      "path": "select/01_DOKIDOKIリズム_[ORT]_城ヶ崎莉嘉(CV_山本希望).lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "DOKIDOKIリズム",
+      "artist": "城ヶ崎莉嘉 (CV: 山本希望)",
+      "has_synced": true,
+      "path": "select/02_DOKIDOKIリズム_城ヶ崎莉嘉_(CV__山本希望).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "DOKIDOKIリズム",
+      "artist": "城ヶ崎莉嘉 (CV 山本希望)",
+      "has_synced": true,
+      "path": "select/03_DOKIDOKIリズム_城ヶ崎莉嘉_(CV_山本希望).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "DOKIDOKIリズム",
+      "artist": "城ヶ崎莉嘉",
+      "has_synced": true,
+      "path": "select/04_DOKIDOKIリズム_城ヶ崎莉嘉.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "DOKIDOKIリズム",
+      "artist": "城ヶ崎莉嘉(CV:山本希望)",
+      "has_synced": false,
+      "path": "select/pl_01_DOKIDOKIリズム_城ヶ崎莉嘉(CV_山本希望).txt"
+    }
+  ]
+}
